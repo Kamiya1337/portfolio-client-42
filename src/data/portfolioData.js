@@ -5,10 +5,10 @@ export const portfolioData = {
     name: "Nguyễn Phương Thảo",
     id: "K70",
     major: "Ngôn Ngữ và Văn hóa Anh",
-    university: "Trường Đại học Quản trị và Kinh doanh - Đại học Quốc gia Hà Nội",
+    university: "Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội",
     shortUniversity: "ULIS - VNU",
     academicYear: "2025–26",
-    bio: "Sinh viên ngành Ngôn Ngữ và Văn hóa Anh tại Trường Đại học Quản trị và Kinh doanh - Đại học Quốc gia Hà Nội.",
+    bio: "Sinh viên ngành Ngôn Ngữ và Văn hóa Anh tại Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội.",
     skills: ["React & Web Dev", "AI Tools (ChatGPT, Gemini)", "Digital Literacy", "Research", "Team Collaboration"]
   },
   overview: [
